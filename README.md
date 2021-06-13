@@ -8,7 +8,7 @@ To run the website correctly:
 
 2- run: npx json-server --watch data/db.json --port 8000   (to run a json-server watch over the database on port 8000)
 
-3- run: npm start    (To start the app, the app will run automaticly on port 3000)
+3- In a new command line run: npm start    (To start the app, the app will run automaticly on port 3000)
 
 
 Thank you!
